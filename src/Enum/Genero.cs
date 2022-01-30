@@ -1,4 +1,4 @@
-﻿namespace CadastroSeries.src.Enum
+﻿namespace CadastroSeries
 {
     public enum Genero 
     { 
