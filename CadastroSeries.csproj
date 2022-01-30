@@ -47,7 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="src\Classes\EntidadeBase.cs" />
     <Compile Include="src\Classes\Serie.cs" />
+    <Compile Include="src\Classes\SerieRepositorio.cs" />
     <Compile Include="src\Enum\Genero.cs" />
+    <Compile Include="src\Interfaces\IRepositorio.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
